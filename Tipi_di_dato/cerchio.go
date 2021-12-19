@@ -1,3 +1,5 @@
+
+
 package main
 
 import(
@@ -58,4 +60,3 @@ di `y` di almeno una costante EPSILON */
 func ÈXMinoreDiY(x, y float64) bool {
     return (x - y) < -EPSILON
 }
-
